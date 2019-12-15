@@ -1,6 +1,7 @@
 import GetStocks
 import CSV
 import Candle
+
 START = "2019-08-01"
 END = "2019-11-01"
 
@@ -12,10 +13,12 @@ class Stock:
         else:
             self.dataFrame = GetStocks.GetStock(name, start = START, end = END)
             CSV.Write(self.dataFrame, name)
+        self.AnalysisLastDay()
 
     def PlotCandle(self):
         #self.PrintName()
-        Candle.Plot(self.dataFrame, self.Name)
+        #Candle.Plot(self.dataFrame, self.Name)
+        Candle.Plotseaborn(self)
 
     def PrintName(self):
         print("Stock name is " + self.Name)
@@ -28,3 +31,4 @@ class Stock:
         self.Support = min(self.dataFrame.iloc[-5:]['Low'])
         self.LastHigh = float(self.dataFrame.iloc[-1:]['High'])
         self.LastLow = float(self.dataFrame.iloc[-1:]['Low'])
+        self.Score = (self.dataFrame.iloc[-3:]['Close']).mean() - last['Close']

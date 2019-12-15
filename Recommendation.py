@@ -8,17 +8,20 @@ StocksName = ['ABEV3.SA','AZUL4.SA','B3SA3.SA','BBAS3.SA','BBDC3.SA','BBDC4.SA',
 Stocks = []
 for StockName in StocksName:
     tempStock = Stock(StockName)
-    tempStock.AnalysisLastDay()
+    #tempStock.AnalysisLastDay()
     Stocks.append(tempStock)
 
 def myFunc(e):
-  return float(e.LastDifferenceHigh)
+  return float(e.Score)
 
 Stocks.sort(key=myFunc)
-for stock in Stocks[:1]:
+HighestScores = Stocks[:5]
+sumHighestScores = sum(c.Score for c in HighestScores)
+for HighestScore in HighestScores[:5]:
     #Stock(str(Stock['Name'])).PlotCandle()
-    #stock.PlotCandle()
+    #HighestScore.PlotCandle()
     #Stock(stock['Name']).PrintName()
-    print("Name:"+str(stock.Name)+" - DifferenceHigh:"+str(stock.LastDifferenceHigh)+" - DifferenceLow:"+str(stock.LastDifferenceLow))
-    print("Suporte:"+str(stock.Support)+" - Resistance:"+str(stock.Resistance)+" - Last High:"+str(stock.LastHigh)+" - Last Low:"+str(stock.LastLow))
+    print("Name:"+str(HighestScore.Name)+" - Percentage: "+str("%.2f" %float(HighestScore.Score/sumHighestScores*100))+"%")
 
+    print("Suporte:"+str(HighestScore.Support)+" - Resistance:"+str(HighestScore.Resistance)+" - Last High:"+str(HighestScore.LastHigh)+" - Last Low:"+str(HighestScore.LastLow))
+    print("----------------------------------------")
