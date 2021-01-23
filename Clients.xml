@@ -1,0 +1,11 @@
+<?xml version="1.0"?>  
+<Clients>
+    <Client name="client1">
+        <Name>"Name 1"</Name>
+        <Email>"client1@gmail.com"</Email>
+    </Client>
+    <Client name="client2">
+        <Name>"Name 2"</Name>
+        <Email>"client2@hotmail.com"</Email>
+    </Client>
+</Clients>
