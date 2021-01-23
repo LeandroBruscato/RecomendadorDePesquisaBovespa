@@ -1,0 +1,883 @@
+<?xml version="1.0" ?>
+<Stocks>
+<Stock>
+<Code>ABCB4</Code>
+<CompanyName>ABC BRASIL</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ABEV3</Code>
+<CompanyName>AMBEV S/A</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Bebidas</Sub-sector>
+<Segment>Cervejas e Refrigerantes</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ALPA4</Code>
+<CompanyName>ALPARGATAS</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Tecidos, Vestuário e Calçados</Sub-sector>
+<Segment>Calçados</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ALSO3</Code>
+<CompanyName>ALIANSCSONAE</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Exploração de Imóveis</Sub-sector>
+<Segment>Exploração de Imóveis</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>B3SA3</Code>
+<CompanyName>B3</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Serviços Financeiros Diversos</Sub-sector>
+<Segment>Serviços Financeiros Diversos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BBAS3</Code>
+<CompanyName>BRASIL</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BBDC4</Code>
+<CompanyName>BRADESCO</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BBRK3</Code>
+<CompanyName>BR BROKERS</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Exploração de Imóveis</Sub-sector>
+<Segment>Intermediação Imobiliária</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BBSE3</Code>
+<CompanyName>BBSEGURIDADE</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Previdência e Seguros</Sub-sector>
+<Segment>Seguradoras</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BEEF3</Code>
+<CompanyName>MINERVA</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Alimentos Processados</Sub-sector>
+<Segment>Carnes e Derivados</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BPAC11</Code>
+<CompanyName>BTGP BANCO</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BRAP4</Code>
+<CompanyName>BRADESPAR</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Mineração</Sub-sector>
+<Segment>Minerais Metálicos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BRDT3</Code>
+<CompanyName>PETROBRAS BR</CompanyName>
+<Sector>Petróleo, Gás e Biocombustíveis</Sector>
+<Sub-sector>Petróleo, Gás e Biocombustíveis</Sub-sector>
+<Segment>Exploração, Refino e Distribuição</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BRKM5</Code>
+<CompanyName>BRASKEM</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Químicos</Sub-sector>
+<Segment>Petroquímicos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BRML3</Code>
+<CompanyName>BR MALLS PAR</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Exploração de Imóveis</Sub-sector>
+<Segment>Exploração de Imóveis</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BRPR3</Code>
+<CompanyName>BR PROPERT</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Exploração de Imóveis</Sub-sector>
+<Segment>Exploração de Imóveis</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>BRSR6</Code>
+<CompanyName>BANRISUL</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CARD3</Code>
+<CompanyName>CSU CARDSYST</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Serviços Diversos</Sub-sector>
+<Segment>Serviços Diversos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CASH3</Code>
+<CompanyName>MELIUZ</CompanyName>
+<Sector>Tecnologia da Informação</Sector>
+<Sub-sector>Programas e Serviços</Sub-sector>
+<Segment>Programas e Serviços</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CCRO3</Code>
+<CompanyName>CCR SA</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Transporte</Sub-sector>
+<Segment>Exploração de Rodovias</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CESP6</Code>
+<CompanyName>CESP</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CGAS5</Code>
+<CompanyName>COMGAS</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Gás</Sub-sector>
+<Segment>Gás</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CIEL3</Code>
+<CompanyName>CIELO</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Serviços Financeiros Diversos</Sub-sector>
+<Segment>Serviços Financeiros Diversos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CMIG4</Code>
+<CompanyName>CEMIG</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>COCE5</Code>
+<CompanyName>COELCE</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>COGN3</Code>
+<CompanyName>COGNA ON</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Diversos</Sub-sector>
+<Segment>Serviços Educacionais</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CPFE3</Code>
+<CompanyName>CPFL ENERGIA</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CPLE6</Code>
+<CompanyName>COPEL</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CSAN3</Code>
+<CompanyName>COSAN</CompanyName>
+<Sector>Petróleo, Gás e Biocombustíveis</Sector>
+<Sub-sector>Petróleo, Gás e Biocombustíveis</Sub-sector>
+<Segment>Exploração, Refino e Distribuição</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CSMG3</Code>
+<CompanyName>COPASA</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Água e Saneamento</Sub-sector>
+<Segment>Água e Saneamento</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CSNA3</Code>
+<CompanyName>SID NACIONAL</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Siderurgia e Metalurgia</Sub-sector>
+<Segment>Siderurgia</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>CYRE3</Code>
+<CompanyName>CYRELA REALT</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>DTEX3</Code>
+<CompanyName>DURATEX</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Madeira e Papel</Sub-sector>
+<Segment>Madeira</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ECOR3</Code>
+<CompanyName>ECORODOVIAS</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Transporte</Sub-sector>
+<Segment>Exploração de Rodovias</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>EGIE3</Code>
+<CompanyName>ENGIE BRASIL</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ELET6</Code>
+<CompanyName>ELETROBRAS</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>EMBR3</Code>
+<CompanyName>EMBRAER</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Material de Transporte</Sub-sector>
+<Segment>Material Aeronáutico e de Defesa</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ENBR3</Code>
+<CompanyName>ENERGIAS BR</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>EQTL3</Code>
+<CompanyName>EQUATORIAL</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ETER3</Code>
+<CompanyName>ETERNIT</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Construção e Engenharia</Sub-sector>
+<Segment>Produtos para Construção</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>EUCA4</Code>
+<CompanyName>EUCATEX</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Madeira e Papel</Sub-sector>
+<Segment>Madeira</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>EVEN3</Code>
+<CompanyName>EVEN</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>EZTC3</Code>
+<CompanyName>EZTEC</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>FESA4</Code>
+<CompanyName>FERBASA</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Siderurgia e Metalurgia</Sub-sector>
+<Segment>Siderurgia</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>FHER3</Code>
+<CompanyName>FER HERINGER</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Químicos</Sub-sector>
+<Segment>Fertilizantes e Defensivos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>FLRY3</Code>
+<CompanyName>FLEURY</CompanyName>
+<Sector>Saúde</Sector>
+<Sub-sector>Serviços Médico - Hospitalares, Análises e Diagnósticos</Sub-sector>
+<Segment>Análises e Diagnósticos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>GFSA3</Code>
+<CompanyName>GAFISA</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>GGBR4</Code>
+<CompanyName>GERDAU</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Siderurgia e Metalurgia</Sub-sector>
+<Segment>Siderurgia</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>GOAU4</Code>
+<CompanyName>GERDAU MET</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Siderurgia e Metalurgia</Sub-sector>
+<Segment>Siderurgia</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>GOLL4</Code>
+<CompanyName>GOL</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Transporte</Sub-sector>
+<Segment>Transporte Aéreo</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>GRND3</Code>
+<CompanyName>GRENDENE</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Tecidos, Vestuário e Calçados</Sub-sector>
+<Segment>Calçados</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>GUAR3</Code>
+<CompanyName>GUARARAPES</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Comércio</Sub-sector>
+<Segment>Tecidos, Vestuário e Calçados</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>HGTX3</Code>
+<CompanyName>CIA HERING</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Tecidos, Vestuário e Calçados</Sub-sector>
+<Segment>Vestuário</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>HYPE3</Code>
+<CompanyName>HYPERA</CompanyName>
+<Sector>Saúde</Sector>
+<Sub-sector>Comércio e Distribuição</Sub-sector>
+<Segment>Medicamentos e Outros Produtos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>IGTA3</Code>
+<CompanyName>IGUATEMI</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Exploração de Imóveis</Sub-sector>
+<Segment>Exploração de Imóveis</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>IRBR3</Code>
+<CompanyName>IRBBRASIL RE</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Previdência e Seguros</Sub-sector>
+<Segment>Seguradoras</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ITSA4</Code>
+<CompanyName>ITAUSA</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ITUB4</Code>
+<CompanyName>ITAUUNIBANCO</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>JBSS3</Code>
+<CompanyName>JBS</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Alimentos Processados</Sub-sector>
+<Segment>Carnes e Derivados</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>JHSF3</Code>
+<CompanyName>JHSF PART</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>KEPL3</Code>
+<CompanyName>KEPLER WEBER</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Máquinas e Equipamentos</Sub-sector>
+<Segment>Máq. e Equip. Industriais</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>KLBN11</Code>
+<CompanyName>KLABIN S/A</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Madeira e Papel</Sub-sector>
+<Segment>Papel e Celulose</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>LAME4</Code>
+<CompanyName>LOJAS AMERIC</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Comércio</Sub-sector>
+<Segment>Produtos Diversos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>LIGT3</Code>
+<CompanyName>LIGHT S/A</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>LOGN3</Code>
+<CompanyName>LOG-IN</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Transporte</Sub-sector>
+<Segment>Transporte Hidroviário</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>LPSB3</Code>
+<CompanyName>LOPES BRASIL</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Exploração de Imóveis</Sub-sector>
+<Segment>Intermediação Imobiliária</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>LREN3</Code>
+<CompanyName>LOJAS RENNER</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Comércio</Sub-sector>
+<Segment>Tecidos, Vestuário e Calçados</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>MDIA3</Code>
+<CompanyName>M.DIASBRANCO</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Alimentos Processados</Sub-sector>
+<Segment>Alimentos Diversos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>MRFG3</Code>
+<CompanyName>MARFRIG</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Alimentos Processados</Sub-sector>
+<Segment>Carnes e Derivados</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>MRVE3</Code>
+<CompanyName>MRV</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>MULT3</Code>
+<CompanyName>MULTIPLAN</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Exploração de Imóveis</Sub-sector>
+<Segment>Exploração de Imóveis</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>MYPK3</Code>
+<CompanyName>IOCHP-MAXION</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Automóveis e Motocicletas</Sub-sector>
+<Segment>Automóveis e Motocicletas</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>NTCO3</Code>
+<CompanyName>GRUPO NATURA</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Produtos de Uso Pessoal e de Limpeza</Sub-sector>
+<Segment>Produtos de Uso Pessoal</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ODPV3</Code>
+<CompanyName>ODONTOPREV</CompanyName>
+<Sector>Saúde</Sector>
+<Sub-sector>Serviços Médico - Hospitalares, Análises e Diagnósticos</Sub-sector>
+<Segment>Análises e Diagnósticos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>PCAR3</Code>
+<CompanyName>P.ACUCAR-CBD</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Comércio e Distribuição</Sub-sector>
+<Segment>Alimentos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>PDTC3</Code>
+<CompanyName>PADTEC</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Serviços Financeiros Diversos</Sub-sector>
+<Segment>Gestão de Recursos e Investimentos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>PETR4</Code>
+<CompanyName>PETROBRAS</CompanyName>
+<Sector>Petróleo, Gás e Biocombustíveis</Sector>
+<Sub-sector>Petróleo, Gás e Biocombustíveis</Sub-sector>
+<Segment>Exploração, Refino e Distribuição</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>PMAM3</Code>
+<CompanyName>PARANAPANEMA</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Siderurgia e Metalurgia</Sub-sector>
+<Segment>Artefatos de Cobre</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>POMO4</Code>
+<CompanyName>MARCOPOLO</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Material de Transporte</Sub-sector>
+<Segment>Material Rodoviário</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>PSSA3</Code>
+<CompanyName>PORTO SEGURO</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Previdência e Seguros</Sub-sector>
+<Segment>Seguradoras</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>QUAL3</Code>
+<CompanyName>QUALICORP</CompanyName>
+<Sector>Saúde</Sector>
+<Sub-sector>Serviços Médico - Hospitalares, Análises e Diagnósticos</Sub-sector>
+<Segment>Análises e Diagnósticos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>RAPT4</Code>
+<CompanyName>RANDON PART</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Material de Transporte</Sub-sector>
+<Segment>Material Rodoviário</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>RENT3</Code>
+<CompanyName>LOCALIZA</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Diversos</Sub-sector>
+<Segment>Aluguel de carros</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>ROMI3</Code>
+<CompanyName>INDS ROMI</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Máquinas e Equipamentos</Sub-sector>
+<Segment>Máq. e Equip. Industriais</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>RSID3</Code>
+<CompanyName>ROSSI RESID</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SANB11</Code>
+<CompanyName>SANTANDER BR</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Intermediários Financeiros</Sub-sector>
+<Segment>Bancos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SAPR11</Code>
+<CompanyName>SANEPAR</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Água e Saneamento</Sub-sector>
+<Segment>Água e Saneamento</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SBSP3</Code>
+<CompanyName>SABESP</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Água e Saneamento</Sub-sector>
+<Segment>Água e Saneamento</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SLCE3</Code>
+<CompanyName>SLC AGRICOLA</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Agropecuária</Sub-sector>
+<Segment>Agricultura</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SLED4</Code>
+<CompanyName>SARAIVA LIVR</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Comércio</Sub-sector>
+<Segment>Produtos Diversos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SMLS3</Code>
+<CompanyName>SMILES</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Diversos</Sub-sector>
+<Segment>Programas de Fidelização</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SMTO3</Code>
+<CompanyName>SAO MARTINHO</CompanyName>
+<Sector>Consumo não Cíclico</Sector>
+<Sub-sector>Alimentos Processados</Sub-sector>
+<Segment>Açucar e Alcool</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>STBP3</Code>
+<CompanyName>SANTOS BRP</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Transporte</Sub-sector>
+<Segment>Serviços de Apoio e Armazenagem</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SULA11</Code>
+<CompanyName>SUL AMERICA</CompanyName>
+<Sector>Financeiro</Sector>
+<Sub-sector>Previdência e Seguros</Sub-sector>
+<Segment>Seguradoras</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>SUZB3</Code>
+<CompanyName>SUZANO S.A.</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Madeira e Papel</Sub-sector>
+<Segment>Papel e Celulose</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>TAEE11</Code>
+<CompanyName>TAESA</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>TCSA3</Code>
+<CompanyName>TECNISA</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Construção Civil</Sub-sector>
+<Segment>Incorporações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>TGMA3</Code>
+<CompanyName>TEGMA</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Transporte</Sub-sector>
+<Segment>Transporte Rodoviário</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>TIET11</Code>
+<CompanyName>AES TIETE E</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>TIMS3</Code>
+<CompanyName>TIM</CompanyName>
+<Sector>Comunicações</Sector>
+<Sub-sector>Telecomunicações</Sub-sector>
+<Segment>Telecomunicações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>TOTS3</Code>
+<CompanyName>TOTVS</CompanyName>
+<Sector>Tecnologia da Informação</Sector>
+<Sub-sector>Programas e Serviços</Sub-sector>
+<Segment>Programas e Serviços</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>TRPL4</Code>
+<CompanyName>TRAN PAULIST</CompanyName>
+<Sector>Utilidade Pública</Sector>
+<Sub-sector>Energia Elétrica</Sub-sector>
+<Segment>Energia Elétrica</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>UGPA3</Code>
+<CompanyName>ULTRAPAR</CompanyName>
+<Sector>Petróleo, Gás e Biocombustíveis</Sector>
+<Sub-sector>Petróleo, Gás e Biocombustíveis</Sub-sector>
+<Segment>Exploração, Refino e Distribuição</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>UNIP6</Code>
+<CompanyName>UNIPAR</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Químicos</Sub-sector>
+<Segment>Químicos Diversos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>USIM5</Code>
+<CompanyName>USIMINAS</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Siderurgia e Metalurgia</Sub-sector>
+<Segment>Siderurgia</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>VALE3</Code>
+<CompanyName>VALE</CompanyName>
+<Sector>Materiais Básicos</Sector>
+<Sub-sector>Mineração</Sub-sector>
+<Segment>Minerais Metálicos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>VIVT4</Code>
+<CompanyName>TELEF BRASIL</CompanyName>
+<Sector>Comunicações</Sector>
+<Sub-sector>Telecomunicações</Sub-sector>
+<Segment>Telecomunicações</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>VVAR3</Code>
+<CompanyName>VIAVAREJO</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Comércio</Sub-sector>
+<Segment>Eletrodomésticos</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>WEGE3</Code>
+<CompanyName>WEG</CompanyName>
+<Sector>Bens Industriais</Sector>
+<Sub-sector>Máquinas e Equipamentos</Sub-sector>
+<Segment>Motores, Compressores e Outros</Segment>
+<risk> </risk>
+</Stock>
+<Stock>
+<Code>YDUQ3</Code>
+<CompanyName>YDUQS PART</CompanyName>
+<Sector>Consumo Cíclico</Sector>
+<Sub-sector>Diversos</Sub-sector>
+<Segment>Serviços Educacionais</Segment>
+<risk> </risk>
+</Stock>
+</Stocks>
