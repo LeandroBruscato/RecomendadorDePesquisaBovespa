@@ -52,7 +52,7 @@ for stock in Stocks:
 tableIndicador = tabSotocks.get_html_string(format=True)
 tableAnalyze = tabSotocksAnalyze.get_html_string(format=True)
 # 
-tableAnalyze = tableAnalyze.replace("Compra","<font color=\"Lime\">Saida</font>")
+tableAnalyze = tableAnalyze.replace("Compra","<font color=\"Lime\">Saída</font>")
 tableAnalyze = tableAnalyze.replace("Venda","<font color=\"Red\">Entrada</font>")
 
 emailBody = open("EmailTemplate.html", "r").read()
@@ -85,11 +85,9 @@ if(any(BuyStocks)):
     BuyText = BuyText + "</p>"
 
 emailBody = emailBody.replace("#BUY", BuyText)
+with open('Stock.html','w') as file:
+    file.write(emailBody)
 
-
-
-# with open('Stock.html','w') as file:
-#     file.write(emailBody)
 # import xml.etree.ElementTree as ET
 # tree = ET.parse('Clients.xml')
 # root = tree.getroot()
